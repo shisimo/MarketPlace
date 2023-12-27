@@ -1,0 +1,11 @@
+{
+    "users":[
+        {
+        "id": 7,
+        "name":"Evelina",
+        "surname":"Kozlova",
+        "photo_url": "",
+        "balance": 4
+    }
+   ]
+}
