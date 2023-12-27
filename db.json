@@ -9,6 +9,13 @@
         },
 
         {
+            "id": 7,
+            "name":"Evelina",
+            "surname":"Kozlova",
+            "photo_url": "",
+            "balance": 4
+        },
+        {
             "id":13,
             "name":"Polina",
             "surname":"Nosurname",
