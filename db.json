@@ -1,12 +1,20 @@
 {
     "users":[
-       {
-        "id":13,
-        "name":"Polina",
-        "surname":"Nosurname",
-        "photo_url":"",
-        "balance":"13000"
-       }
-    ]
+        {
+            "id": 9,
+            "name": "MELIODAS",
+            "surname": "-",
+            "photo_url": "",
+            "balance": 10000000000000000000000000000000
+        }
 
+        {
+            "id":13,
+            "name":"Polina",
+            "surname":"Nosurname",
+            "photo_url":"",
+            "balance":"13000"
+           }
+    ]
+    
 }
